@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am now an algorithm engineer working at Tianrang Inc, I do some machine learning, image classification and detection. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Food is the most primitive form of comfort.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yqmlilian@gmail.com](mailto:email@domain.com)
