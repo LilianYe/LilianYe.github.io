@@ -30,13 +30,19 @@ title: Iceland Visa checklist
 
 - 在职证明模版：
 >> Letter of Employment
+
 >> To whom it may concern:
+
 >> Ms. xxx (Passport number BBBB) is a full time employee of 公司英文名字 (公司中文名字, Registration code xxx) working as 职位 from 入职时间 to present, her gross salary is BBBB RMB per month. She will fly to Iceland for a friend visit start from 出国时间 to 回国时间. 
+
 >> Please kindly support to issue the visa accordingly. Thanks.
+
 >> 地址, 日期
 
 >> HR中文手写签名
+
 >> HR机打签名
+
 >> HR, 公司英文名.
 
 7. 由邀请方发给申请人的邀请信  (英文或冰文,包括签名)。 注意：冰岛大使馆要求邀请方同时要以电子文件形式将有签名的邀请函直接电邮至使馆邮箱：visa.beijing@utn.stjr.is
